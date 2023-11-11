@@ -1,4 +1,4 @@
-# Zoo Animal Classfication-ML-Python-Gradio
+# Zoo Animal Classification-ML-Python-Gradio
 
 ### Project Description
 This repository hosts the code for an Animal Classification System, designed to categorize animals into seven classes based on a dataset featuring 101 zoo animals with 16 descriptive variables. The project involves comprehensive Exploratory Data Analysis (EDA), supervised learning model training, dimensionality reduction using PCA, and unsupervised clustering. The model, identified through rigorous evaluation, is deployed using Gradio for easy accessibility.
